@@ -1,5 +1,5 @@
 candidate =
- "mabel"
+ "mabel-part-three"
 
 tags = {
   Name = "case-study-test"
